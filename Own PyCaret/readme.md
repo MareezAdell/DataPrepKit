@@ -22,4 +22,4 @@ Own PyCaret is a Python package designed to simplify machine learning tasks, all
 - Upload your dataset
 - Select a target variable
 - Perform EDA
--Train and evaluate machine learning models.
+- Train and evaluate machine learning models.
